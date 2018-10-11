@@ -1,0 +1,21 @@
+body{
+    background-color: lightcoral;
+}
+.item{
+    text-align: center;
+    margin: 5%;
+    background-color: lightgray;
+    padding: 30px;
+}
+.item h1{
+
+}
+.rounded{
+    border-radius: 50px;
+    width: 90%;
+    height: auto;
+}
+.caption{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
